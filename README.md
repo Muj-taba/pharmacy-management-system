@@ -2,7 +2,9 @@
 
 # Requirements 
  *pyqt5
+ 
  *mysql
+ 
  *python3.4
 
 
