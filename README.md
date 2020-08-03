@@ -1,9 +1,9 @@
 # python pharmacy management system
 
 # Requirements 
- pyqt5
- mysql
- python3.4
+ *pyqt5
+ *mysql
+ *python3.4
 
 
 * [Youtube Tutorial - ](https://youtu.be/zwMYG_Gsh5Q)
