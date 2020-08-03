@@ -8,4 +8,4 @@
  python3.4 or above
 
 
-* [Youtube Tutorial - ](https://youtu.be/zwMYG_Gsh5Q)
+[Youtube Tutorial - ](https://youtu.be/zwMYG_Gsh5Q)
