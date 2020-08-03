@@ -1,4 +1,4 @@
-# python pharmacy management system
+# Python basic pharmacy management system
 
 # Requirements 
 
