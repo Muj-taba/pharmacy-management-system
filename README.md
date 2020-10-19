@@ -1,5 +1,8 @@
 # Python basic pharmacy management system
 
+----
+# Database is not available now :)
+
 # Requirements 
 
  pyqt5
